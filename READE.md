@@ -2,10 +2,9 @@
 Contact-Us/
 ├── index.html
 ├── style.css
-├── script.js (optional, empty)
 ├── README.md
 └── assets/
-    └── images/ (if you add any)
+    └── images/
 # index.html
 <!DOCTYPE html>
 <html lang="en">
